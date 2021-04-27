@@ -7,4 +7,5 @@ dependencies:
   - numpy
   - jupyterlab
   - lxml
+  - matplotlib
 prefix: /home/robertobastidaluna/miniconda3
